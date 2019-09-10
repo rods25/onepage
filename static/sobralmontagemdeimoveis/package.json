@@ -1,0 +1,26 @@
+{
+  "name": "sobralmontagemdeimoveis",
+  "version": "1.0.0",
+  "description": "Serviço de montagem de imóveis",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "watch": "node-sass -watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rods25/onepage.git"
+  },
+  "keywords": [
+    "sobral-montagem-imoveis"
+  ],
+  "author": "Rodrigo Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rods25/onepage/issues"
+  },
+  "homepage": "https://github.com/rods25/onepage#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
